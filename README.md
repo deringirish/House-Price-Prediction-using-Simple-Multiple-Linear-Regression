@@ -93,8 +93,8 @@ Linear-Regression/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Linear-Regression.git
-cd Linear-Regression
+git clone https://github.com/deringirish/House-Price-Prediction-using-Simple-Multiple-Linear-Regression.git
+cd House-Price-Prediction-using-Simple-Multiple-Linear-Regression
 ```
 
 ### 2. Setup Environment
