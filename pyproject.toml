@@ -1,7 +1,7 @@
 [project]
 name = "linear-regression"
 version = "0.1.0"
-description = "House Price Prediction using Simple and Multiple Linear Regression (OLS and Gradient Descent)"
+description = "House Price Prediction using Simple & Multiple Linear Regression (OLS and Gradient Descent)"
 readme = "README.md"
 authors = [
     { name = "deringirish", email = "girishderin@gmail.com" }

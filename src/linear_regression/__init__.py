@@ -1,9 +1,8 @@
 """
-Linear Regression Learning Project
+House Price Prediction using Simple & Multiple Linear Regression
 
-Implementations and comparisons of Ordinary Least Squares (OLS)
-and Gradient Descent (GD) for Simple and Multiple Linear Regression.
+Predicting King County real estate prices using OLS and Gradient Descent optimization.
 """
 
 def main() -> None:
-    print("Linear Regression Project: Check out the notebooks inside the 'notebooks/' directory.")
+    print("House Price Prediction Project: Check out the notebooks inside the 'notebooks/' directory.")

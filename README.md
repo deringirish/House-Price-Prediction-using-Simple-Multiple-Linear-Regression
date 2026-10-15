@@ -1,6 +1,5 @@
-# House Price Prediction using Linear Regression
-
-A project implementing and comparing **Simple Linear Regression** and **Multiple Linear Regression** using both **Ordinary Least Squares (OLS)** and **Gradient Descent (GD)** on the King County housing dataset.
+# House Price Prediction using Simple & Multiple Linear Regression
+Predicting King County real estate prices using OLS and Gradient Descent optimization.
 
 ---
 
